@@ -14,6 +14,6 @@ Reviews and Ratings: Leave reviews and ratings for restaurants and food items.
 Notifications: Receive order confirmations, status updates, and promotions via email/SMS.
 
 **Technologies Used**<br>
-HTML5
-CSS3
-JavaScript (ES6+)7854
+HTML5<br>
+CSS3<br>
+JavaScript<br>
